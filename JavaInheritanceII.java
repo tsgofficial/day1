@@ -7,6 +7,7 @@ class Arithmetic {
 class Adder extends Arithmetic {
 }
 
+
 public class JavaInheritanceII {
     public static void main(String[] args) {
         Adder adder = new Adder();

@@ -1,5 +1,5 @@
 
-public class Main {
+public class PersonMain {
     public static void main(String[] args) {
         Person person1 = new Person("Ean Craig", 11);
         Person person2 = new Person("Evan Ross", 12);
