@@ -1,6 +1,6 @@
 public class HelloOOP {
     public static void main(String[] args) {
-        Person p = new Person("Alex", 25);
+        Person p = new Person("Alex", 25, "example@gmail.com");
         p.greet();
     }
 }
